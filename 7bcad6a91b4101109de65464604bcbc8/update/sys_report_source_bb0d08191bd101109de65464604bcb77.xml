@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description>All active NeedIt request records</description>
+        <display>active Practise  Requests (practise table )</display>
+        <filter table="u_practise_table">u_choice_1=1<item display_value="open" endquery="false" field="u_choice_1" goto="false" newquery="false" operator="=" or="false" value="1"/>
+        </filter>
+        <name>active Practise  Requests</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-25 21:12:13</sys_created_on>
+        <sys_id>bb0d08191bd101109de65464604bcb77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>active Practise  Requests (practise table )</sys_name>
+        <sys_package display_value="practise" source="7bcad6a91b4101109de65464604bcbc8">7bcad6a91b4101109de65464604bcbc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+        <sys_update_name>sys_report_source_bb0d08191bd101109de65464604bcb77</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-25 21:12:13</sys_updated_on>
+        <table>u_practise_table</table>
+    </sys_report_source>
+</record_update>

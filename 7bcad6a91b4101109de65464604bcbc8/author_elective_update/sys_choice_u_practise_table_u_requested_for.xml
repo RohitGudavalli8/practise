@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_requested_for" table="u_practise_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_requested_for</element>
+            <name>u_practise_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-19 19:52:31</sys_created_on>
+            <sys_id>d3818d531b0501109de65464604bcb38</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_requested_for</sys_name>
+            <sys_package display_value="practise" source="7bcad6a91b4101109de65464604bcbc8">7bcad6a91b4101109de65464604bcbc8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+            <sys_update_name>sys_choice_u_practise_table_u_requested_for</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-19 19:52:31</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_for</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Adela Cervantsz</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-19 19:57:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53928d931b0501109de65464604bcb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-19 19:57:09</sys_updated_on>
+            <value>Adela Cervantsz</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_for</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Aileen Mottern</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-19 19:57:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df928d931b0501109de65464604bcb58</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-19 19:57:09</sys_updated_on>
+            <value>Aileen Mottern</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_for</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bryan Rovell</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-19 19:57:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53928d931b0501109de65464604bcb76</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-19 19:57:09</sys_updated_on>
+            <value>Bryan Rovell</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_for</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Danny Dales</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-19 19:57:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>57928d931b0501109de65464604bcb7a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-19 19:57:09</sys_updated_on>
+            <value>Danny Dales</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_for</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Human Resources</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-19 19:52:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b818d531b0501109de65464604bcb37</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-19 19:52:31</sys_updated_on>
+            <value>human resources</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_for</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Nathanial Phoenix</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-19 19:57:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b928d931b0501109de65464604bcb7e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-19 19:57:09</sys_updated_on>
+            <value>Nathanial Phoenix</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_for</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Legal</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-19 19:52:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1b818d531b0501109de65464604bcb39</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-19 19:52:31</sys_updated_on>
+            <value>legal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_requested_for</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-19 19:52:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b818d531b0501109de65464604bcb3a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-19 19:52:31</sys_updated_on>
+            <value>facilities</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

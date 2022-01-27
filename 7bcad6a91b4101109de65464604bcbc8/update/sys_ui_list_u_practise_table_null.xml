@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="u_practise_table" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_age</element>
+            <list_id display_value="u_practise_table" element="NULL" name="u_practise_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9af02ed1b0101109de65464604bcb92</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:04:22</sys_created_on>
+            <sys_id>a9af02ed1b0101109de65464604bcb93</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:04:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_city</element>
+            <list_id display_value="u_practise_table" element="NULL" name="u_practise_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9af02ed1b0101109de65464604bcb92</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:04:22</sys_created_on>
+            <sys_id>21af02ed1b0101109de65464604bcb94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:04:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_contact_number</element>
+            <list_id display_value="u_practise_table" element="NULL" name="u_practise_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9af02ed1b0101109de65464604bcb92</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:04:22</sys_created_on>
+            <sys_id>a1af02ed1b0101109de65464604bcb94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:04:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_country</element>
+            <list_id display_value="u_practise_table" element="NULL" name="u_practise_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9af02ed1b0101109de65464604bcb92</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:04:22</sys_created_on>
+            <sys_id>25af02ed1b0101109de65464604bcb94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:04:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_country_code</element>
+            <list_id display_value="u_practise_table" element="NULL" name="u_practise_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9af02ed1b0101109de65464604bcb92</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:04:22</sys_created_on>
+            <sys_id>a5af02ed1b0101109de65464604bcb94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:04:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_email_id</element>
+            <list_id display_value="u_practise_table" element="NULL" name="u_practise_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9af02ed1b0101109de65464604bcb92</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:04:22</sys_created_on>
+            <sys_id>29af02ed1b0101109de65464604bcb94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:04:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_first_name</element>
+            <list_id display_value="u_practise_table" element="NULL" name="u_practise_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9af02ed1b0101109de65464604bcb92</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:04:22</sys_created_on>
+            <sys_id>a9af02ed1b0101109de65464604bcb94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:04:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_last_name</element>
+            <list_id display_value="u_practise_table" element="NULL" name="u_practise_table" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">e9af02ed1b0101109de65464604bcb92</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:04:22</sys_created_on>
+            <sys_id>2daf02ed1b0101109de65464604bcb94</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:04:22</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_practise_table</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:04:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9af02ed1b0101109de65464604bcb92</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>u_practise_table</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+            <sys_update_name>sys_ui_list_u_practise_table_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 18:58:02</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</claim_owner_scope>
+        <claim_timestamp>17e59f432560000001</claim_timestamp>
+        <metadata_update_name>sys_ui_list_u_practise_table_null</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>practise</previous_claim_name>
+        <previous_claim_scope>7bcad6a91b4101109de65464604bcbc8</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 18:58:02</sys_created_on>
+        <sys_id>bc2547ad1bc101109de65464604bcb02</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 18:58:02</sys_updated_on>
+    </sys_claim>
+</record_update>

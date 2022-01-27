@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="practise table " max_length="40" name="u_practise_table" sizeclass="27" type="collection">
+        <element choice="1" label="age" max_length="40" name="u_age" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="0-10" sequence="1" value="1"/>
+                <element inactive_on_update="false" label="11-20" sequence="2" value="2"/>
+                <element inactive_on_update="false" label="21-30" sequence="3" value="3"/>
+                <element inactive_on_update="false" label="31-40" sequence="4" value="4"/>
+                <element inactive_on_update="false" label="41-50" sequence="5" value="5"/>
+                <element inactive_on_update="false" label="51-60" sequence="6" value="6"/>
+                <element inactive_on_update="false" label="61-70" sequence="7" value="7"/>
+                <element inactive_on_update="false" label="71-80" sequence="8" value="8"/>
+                <element inactive_on_update="false" label="81-90" sequence="9" value="9"/>
+                <element inactive_on_update="false" label="91-100" sequence="10" value="10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Must Have By" max_length="40" name="u_calendar_date_time_1" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="draft" sequence="0" value="draft"/>
+                <element inactive_on_update="false" label="open" sequence="0" value="1"/>
+                <element inactive="true" inactive_on_update="true" label="ready" sequence="1" value="ready"/>
+                <element inactive_on_update="false" label="Work in Progress" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Closed Complete" sequence="2" value="3"/>
+                <element inactive="true" inactive_on_update="true" label="work in progress" sequence="2" value="work in progress"/>
+                <element inactive_on_update="false" label="Closed Incomplete" sequence="3" value="4"/>
+                <element inactive="true" inactive_on_update="true" label="on hold" sequence="3" value="on hold"/>
+                <element inactive="true" inactive_on_update="true" label="awaiting approval" sequence="4" value="awaiting approval"/>
+                <element inactive="true" inactive_on_update="true" label="approved" sequence="5" value="approved"/>
+                <element inactive="true" inactive_on_update="true" label="Resolved" sequence="6" value="resolved"/>
+                <element inactive="true" inactive_on_update="true" label="closed" sequence="7" value="closed"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="what needed" max_length="40" name="u_choice_3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Human Resources 1" sequence="0" value="human resources 1"/>
+                <element inactive_on_update="false" label="Human Resources 2" sequence="1" value="human resources 2"/>
+                <element inactive_on_update="false" label="Legal 1" sequence="2" value="legal 1"/>
+                <element inactive_on_update="false" label="Legal 2" sequence="3" value="legal 2"/>
+                <element inactive_on_update="false" label="Facilities 1" sequence="4" value="facilities 1"/>
+                <element inactive_on_update="false" label="Facilities 2" sequence="5" value="facilities 2"/>
+                <element inactive_on_update="false" label="other" sequence="6" value="other"/>
+            </choice>
+        </element>
+        <element choice="1" dependent="u_country" dependent_on_field="u_country" label="city" max_length="40" name="u_city" type="choice" use_dependent_field="true">
+            <choice>
+                <element inactive_on_update="false"/>
+                <element inactive_on_update="false"/>
+                <element dependent_value="30" inactive_on_update="false" label="Bangalore" value="9"/>
+                <element dependent_value="60" inactive_on_update="false" label="California" value="21"/>
+                <element dependent_value="30" inactive_on_update="false" label="Chennai" value="8"/>
+                <element dependent_value="60" inactive_on_update="false" label="Chicago" value="20"/>
+                <element dependent_value="30" inactive_on_update="false" label="Delhi" value="6"/>
+                <element dependent_value="40" inactive_on_update="false" label="Ecatapec" value="12"/>
+                <element dependent_value="30" inactive_on_update="false" label="Hyderabad" value="7"/>
+                <element dependent_value="60" inactive_on_update="false" label="Las Vegas" value="22"/>
+                <element dependent_value="50" inactive_on_update="false" label="Leeds" value="16"/>
+                <element dependent_value="50" inactive_on_update="false" label="Liverpool" value="14"/>
+                <element dependent_value="50" inactive_on_update="false" label="London" value="13"/>
+                <element dependent_value="60" inactive_on_update="false" label="Los Angeles" value="23"/>
+                <element dependent_value="50" inactive_on_update="false" label="Manchester city" value="15"/>
+                <element dependent_value="10" inactive_on_update="false" label="Melbourne" value="2"/>
+                <element dependent_value="40" inactive_on_update="false" label="Mexico city" value="10"/>
+                <element dependent_value="60" inactive_on_update="false" label="New Jersey" value="18"/>
+                <element dependent_value="60" inactive_on_update="false" label="New York" value="17"/>
+                <element dependent_value="20" inactive_on_update="false" label="Quebec" value="4"/>
+                <element dependent_value="10" inactive_on_update="false" label="Sydeny" value="1"/>
+                <element dependent_value="60" inactive_on_update="false" label="Tampa bay" value="19"/>
+                <element dependent_value="40" inactive_on_update="false" label="Tijuana" value="11"/>
+                <element dependent_value="20" inactive_on_update="false" label="Toronto" value="3"/>
+                <element dependent_value="20" inactive_on_update="false" label="Vancouver" value="5"/>
+            </choice>
+        </element>
+        <element label="contact Number" mandatory="true" max_length="10" name="u_contact_number" type="string"/>
+        <element choice="1" label="country" max_length="40" name="u_country" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Australia" sequence="1" value="10"/>
+                <element inactive_on_update="false" label="canada" sequence="2" value="20"/>
+                <element inactive_on_update="false" label="India" sequence="3" value="30"/>
+                <element inactive_on_update="false" label="Mexico" sequence="4" value="40"/>
+                <element inactive_on_update="false" label="United kingdom" sequence="5" value="50"/>
+                <element inactive_on_update="false" label="United states" sequence="6" value="60"/>
+            </choice>
+        </element>
+        <element label="country code" mandatory="true" max_length="5" name="u_country_code" type="string"/>
+        <element label="email id" max_length="40" name="u_email_id" type="string"/>
+        <element label="First Name" mandatory="true" max_length="100" name="u_first_name" type="string"/>
+        <element label="Last Name" mandatory="true" max_length="100" name="u_last_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="150" name="u_other" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request type" max_length="40" name="u_requested_for" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Adela Cervantsz" sequence="0" value="Adela Cervantsz"/>
+                <element inactive_on_update="false" label="Aileen Mottern" sequence="0" value="Aileen Mottern"/>
+                <element inactive_on_update="false" label="Bryan Rovell" sequence="0" value="Bryan Rovell"/>
+                <element inactive_on_update="false" label="Danny Dales" sequence="0" value="Danny Dales"/>
+                <element inactive_on_update="false" label="Human Resources" sequence="0" value="human resources"/>
+                <element inactive_on_update="false" label="Nathanial Phoenix" sequence="0" value="Nathanial Phoenix"/>
+                <element inactive_on_update="false" label="Legal" sequence="1" value="legal"/>
+                <element inactive_on_update="false" label="Facilities" sequence="2" value="facilities"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="Requested for email" mandatory="true" max_length="32" name="u_requested_for_email" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Request For" max_length="40" name="u_request_for" type="string">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Short Description" max_length="40" name="u_short_description" type="string"/>
+        <index name="index">
+            <element name="u_requested_for_email"/>
+        </index>
+    </element>
+</database>

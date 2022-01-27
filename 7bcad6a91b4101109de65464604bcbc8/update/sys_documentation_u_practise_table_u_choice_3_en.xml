@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_choice_3" label="what needed" language="en" table="u_practise_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_choice_3</element>
+            <help/>
+            <hint/>
+            <label>what needed</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <plural>what needed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-19 19:50:59</sys_created_on>
+            <sys_id>093109531b0501109de65464604bcb9b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>what needed</sys_name>
+            <sys_package display_value="practise" source="7bcad6a91b4101109de65464604bcbc8">7bcad6a91b4101109de65464604bcbc8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+            <sys_update_name>sys_documentation_u_practise_table_u_choice_3_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-19 19:53:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

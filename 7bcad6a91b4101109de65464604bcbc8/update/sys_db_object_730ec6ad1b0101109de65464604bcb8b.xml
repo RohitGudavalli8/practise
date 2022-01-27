@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>practise table </label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>u_practise_table</name>
+        <number_ref display_value="PRA">425116611b4101109de65464604bcb2b</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 15:03:36</sys_created_on>
+        <sys_id>730ec6ad1b0101109de65464604bcb8b</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>practise table </sys_name>
+        <sys_package display_value="Global" source="global">global</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+        <sys_update_name>sys_db_object_730ec6ad1b0101109de65464604bcb8b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-19 17:57:29</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</claim_owner_scope>
+        <claim_timestamp>17e59f42dbb0000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_730ec6ad1b0101109de65464604bcb8b</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>practise</previous_claim_name>
+        <previous_claim_scope>7bcad6a91b4101109de65464604bcbc8</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 18:58:01</sys_created_on>
+        <sys_id>5c250b2d1bc101109de65464604bcbcc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 18:58:01</sys_updated_on>
+    </sys_claim>
+</record_update>

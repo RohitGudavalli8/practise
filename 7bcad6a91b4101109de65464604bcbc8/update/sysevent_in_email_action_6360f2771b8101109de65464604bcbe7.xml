@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>true</active>
+        <assignment_operator/>
+        <condition_script/>
+        <description>Replies to birthday greetings are unexpected. this inbound action creates an incident record to follow up  &#13;
+with any replies recieved for a birthday greeting&#13;
+ </description>
+        <event_name>email.read</event_name>
+        <filter_condition table="sys_email">subjectLIKEHAPPY BIRTHDAY^EQ<item endquery="false" field="subject" goto="false" newquery="false" operator="LIKE" or="false" value="HAPPY BIRTHDAY"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <from/>
+        <name>create occasion follow up</name>
+        <order>100</order>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[(function runAction(/*GlideRecord*/ current, /*GlideRecord*/ event, /*EmailWrapper*/ email, /*ScopedEmailLogger*/ logger, /*EmailClassifier*/ classifier) {
+
+	// Implement email action here
+	
+	current.u_short_description = "Investigatereply to birthday email from " + email.sender;
+	current.update();
+	
+
+})(current, event, email, logger, classifier);]]></script>
+        <stop_processing>false</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-21 17:20:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6360f2771b8101109de65464604bcbe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>create occasion follow up</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="practise" source="7bcad6a91b4101109de65464604bcbc8">7bcad6a91b4101109de65464604bcbc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+        <sys_update_name>sysevent_in_email_action_6360f2771b8101109de65464604bcbe7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-21 17:20:16</sys_updated_on>
+        <table>incident</table>
+        <template>descriptionDYNAMIC367bf121ef3221002841f7f775c0fbe2^EQ</template>
+        <type>reply</type>
+    </sysevent_in_email_action>
+</record_update>

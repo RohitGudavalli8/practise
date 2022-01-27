@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_city" table="u_practise_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_city</element>
+            <name>u_practise_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:22:22</sys_created_on>
+            <sys_id>e5c3dee11b4101109de65464604bcb18</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>u_city</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+            <sys_update_name>sys_choice_u_practise_table_u_city</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 18:58:03</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label/>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 16:43:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9656e6e11b8101109de65464604bcbea</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:18</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label/>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 16:45:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9a62e251b8101109de65464604bcb13</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sydeny</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:22:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50c31ee11b4101109de65464604bcb74</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>40</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mexico city</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:25:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>625496251b4101109de65464604bcb09</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>40</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tijuana</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:25:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4984d6251b4101109de65464604bcbec</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:18</sys_updated_on>
+            <value>11</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>40</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ecatapec</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:26:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>aa94da251b4101109de65464604bcb83</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>12</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>50</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:26:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8fa496251b4101109de65464604bcb0a</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>13</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>50</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Liverpool</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:26:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5ac49a251b4101109de65464604bcbba</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>14</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>50</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Manchester city</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:27:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0d452651b4101109de65464604bcba2</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>15</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>50</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Leeds</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:27:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>88e4da251b4101109de65464604bcb3a</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>16</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>60</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New York</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:27:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>91f49e251b4101109de65464604bcb2f</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>17</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>60</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Jersey</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:27:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bff492651b4101109de65464604bcb2c</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>18</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>60</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Tampa bay</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:27:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fd05da251b4101109de65464604bcb1d</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:18</sys_updated_on>
+            <value>19</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>10</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Melbourne</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:22:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2dc3dee11b4101109de65464604bcb8e</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>60</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chicago</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:28:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af0516651b4101109de65464604bcb47</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>60</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>California</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:28:50</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8f1552651b4101109de65464604bcbb8</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>21</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>60</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Las Vegas</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:29:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cc4556651b4101109de65464604bcbc6</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>22</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>60</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Los Angeles</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:29:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a4556651b4101109de65464604bcb05</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:04</sys_updated_on>
+            <value>23</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>20</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Toronto</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:22:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0ed312251b4101109de65464604bcb3c</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:18</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>20</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Quebec</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:23:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fde392251b4101109de65464604bcb83</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>20</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vancouver</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:23:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07f316251b4101109de65464604bcb24</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:04</sys_updated_on>
+            <value>5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>30</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Delhi</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:23:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ba04dee11b4101109de65464604bcb8f</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>6</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>30</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hyderabad</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:24:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4b14dee11b4101109de65464604bcb91</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>7</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>30</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Chennai</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:24:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>422496251b4101109de65464604bcb06</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>30</dependent_value>
+            <element>u_city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Bangalore</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:24:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3f345a251b4101109de65464604bcbfb</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 16:45:05</sys_updated_on>
+            <value>9</value>
+        </sys_choice>
+    </sys_choice>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</claim_owner_scope>
+        <claim_timestamp>17e59f435270000001</claim_timestamp>
+        <metadata_update_name>sys_choice_u_practise_table_u_city</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>practise</previous_claim_name>
+        <previous_claim_scope>7bcad6a91b4101109de65464604bcbc8</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 18:58:03</sys_created_on>
+        <sys_id>302547ad1bc101109de65464604bcb50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 18:58:03</sys_updated_on>
+    </sys_claim>
+</record_update>

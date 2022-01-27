@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="Occasion User" name="Occasion User">6c3776361b0101109de65464604bcb26</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-18 15:10:15</sys_created_on>
+        <sys_id>ba57f6361b0101109de65464604bcb22</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6c3776361b0101109de65464604bcb26</sys_name>
+        <sys_package display_value="practise" source="7bcad6a91b4101109de65464604bcbc8">7bcad6a91b4101109de65464604bcbc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ba57f6361b0101109de65464604bcb22</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-18 15:10:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

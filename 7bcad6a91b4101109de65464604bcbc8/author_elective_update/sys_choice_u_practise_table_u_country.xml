@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_country" table="u_practise_table" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_country</element>
+            <name>u_practise_table</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:18:24</sys_created_on>
+            <sys_id>17d2d2e11b4101109de65464604bcb40</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>u_country</sys_name>
+            <sys_package display_value="Global" source="global">global</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+            <sys_update_name>sys_choice_u_practise_table_u_country</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 18:58:04</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Australia</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:19:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b60392e11b4101109de65464604bcbda</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:20:59</sys_updated_on>
+            <value>10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>canada</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:18:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e3d2d2e11b4101109de65464604bcb4f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:20:44</sys_updated_on>
+            <value>20</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>India</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:18:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8dd21ea11b4101109de65464604bcb88</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:21:03</sys_updated_on>
+            <value>30</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mexico</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:19:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1ff296e11b4101109de65464604bcb03</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:21:05</sys_updated_on>
+            <value>40</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>United kingdom</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:18:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdf216e11b4101109de65464604bcb13</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:21:07</sys_updated_on>
+            <value>50</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_country</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>United states</label>
+            <language>en</language>
+            <name>u_practise_table</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-01-14 15:18:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>07e252e11b4101109de65464604bcbf2</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-01-14 15:21:09</sys_updated_on>
+            <value>60</value>
+        </sys_choice>
+    </sys_choice>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</claim_owner_scope>
+        <claim_timestamp>17e59f436c80000001</claim_timestamp>
+        <metadata_update_name>sys_choice_u_practise_table_u_country</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>practise</previous_claim_name>
+        <previous_claim_scope>7bcad6a91b4101109de65464604bcbc8</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-14 18:58:04</sys_created_on>
+        <sys_id>4d2547ad1bc101109de65464604bcb74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-14 18:58:04</sys_updated_on>
+    </sys_claim>
+</record_update>

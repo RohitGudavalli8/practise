@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>practise application - New Tab 2</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-27 16:31:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>713069f51b5101109de65464604bcb4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>practise application - New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="practise" source="7bcad6a91b4101109de65464604bcbc8">7bcad6a91b4101109de65464604bcbc8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+        <sys_update_name>pa_tabs_713069f51b5101109de65464604bcb4e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-27 16:31:17</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="practise">7bcad6a91b4101109de65464604bcbc8</application>
+        <file_path/>
+        <instance_id>ad686ccedb4fac10e03ad7c8f49619ab</instance_id>
+        <instance_name>dev108151</instance_name>
+        <name>pa_tabs_713069f51b5101109de65464604bcb4e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>practise application - New Tab 2</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-01-27 16:31:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>713069f51b5101109de65464604bcb4e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>practise application - New Tab 2</sys_name><sys_overrides/><sys_package display_value="practise" source="7bcad6a91b4101109de65464604bcbc8">7bcad6a91b4101109de65464604bcbc8</sys_package><sys_policy/><sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope><sys_update_name>pa_tabs_713069f51b5101109de65464604bcb4e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-01-27 16:31:17</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>-2137468918</payload_hash>
+        <record_name>practise application - New Tab 2</record_name>
+        <reverted_from/>
+        <source>d232ea0ba9663010c0a065f439e66147</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-27 16:31:28</sys_created_on>
+        <sys_id>9c40a9f51b5101109de65464604bcb01</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17e9c60ac2d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-27 16:31:28</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>713069f50e510110469e7ad655768c4f</update_guid>
+        <update_guid_history>713069f50e510110469e7ad655768c4f:1592795493,713069f50e510110469e7ad655768c4f:1592795493,713069f50e510110469e7ad655768c4f:1592795493</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="practise application - New Tab 2">9840a9f51b5101109de65464604bcb07</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-27 16:31:28</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>02fdcb23ad96445ab0f3458d274a8724</sys_id>
+        <sys_metadata>713069f51b5101109de65464604bcb4e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>practise application - New Tab 2</sys_name>
+        <sys_package display_value="practise" source="7bcad6a91b4101109de65464604bcbc8">7bcad6a91b4101109de65464604bcbc8</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="practise">7bcad6a91b4101109de65464604bcbc8</sys_scope>
+        <sys_scope_delete display_value="">3c44e79b150144e8ac3caec48afe9c40</sys_scope_delete>
+        <sys_update_name>pa_tabs_713069f51b5101109de65464604bcb4e</sys_update_name>
+        <sys_update_version display_value="pa_tabs_713069f51b5101109de65464604bcb4e">9c40a9f51b5101109de65464604bcb01</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-27 16:31:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
